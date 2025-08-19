@@ -7,6 +7,7 @@
 
   * Java 21
   * Spring Boot Extension Pack (Spring Tools)
+  * Created the Spring structuer (since VS code doesn't create it) 
 * **API Testing Tool:** Postman
 
 ---
