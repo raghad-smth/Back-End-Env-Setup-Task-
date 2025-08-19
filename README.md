@@ -89,7 +89,7 @@ public List<User> getAllUsers() { ... }
   * Response: `"Hello World"`
    
 * Finally, pushed the project to **GitHub repository**.
-* P pushed the Postman collection in the repo here as well.
+* Pushed the Postman collection in the repo here as well.
 
 ---
 
