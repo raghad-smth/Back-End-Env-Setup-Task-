@@ -87,7 +87,9 @@ public List<User> getAllUsers() { ... }
 
   * `GET http://localhost:8080/hello`
   * Response: `"Hello World"`
-* Finally, pushed the project to **GitHub repository** for submission.
+   
+* Finally, pushed the project to **GitHub repository**.
+* P pushed the Postman collection in the repo here as well.
 
 ---
 
