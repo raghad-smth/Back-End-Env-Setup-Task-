@@ -7,7 +7,8 @@
 
   * Java 21
   * Spring Boot Extension Pack (Spring Tools)
-  * Created the Spring structuer (since VS code doesn't create it) 
+  * Created the Spring structuer (since VS code doesn't create it)
+* MySQL was already installed and configure, and XAMPP won't be needed since am using Java not PHP.
 * **API Testing Tool:** Postman
 
 ---
